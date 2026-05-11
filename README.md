@@ -1,8 +1,8 @@
+
 # 🌌 Netflix Analytics
 
 A cyberpunk-themed Netflix analytics dashboard built using Python, Streamlit, Plotly, and Pandas.  
 This interactive dashboard explores Netflix content trends through dynamic visualizations, genre heatmaps, country analytics, and business insights.
-
 ---
 
 ## 🚀 Features
@@ -44,3 +44,4 @@ Netflix Movies and TV Shows Dataset from Kaggle.
 ## 💡 Project Goal
 
 The goal of this project was to combine data analytics with creative UI design to build an engaging and interactive streaming analytics experience.
+
